@@ -62,9 +62,9 @@
     }
     
 Screenshot (Page 1)
-<img width="1920" height="1017" alt="tauri1" src="https://github.com/user-attachments/assets/b6cdb603-7b6d-4ee0-a61f-d749c5d76205" />
+<img width="1920" height="1080" alt="tauri1" src="https://github.com/BhilaniEdu/media/blob/main/tauri1.png" />
 
 Screenshot (Page 4)
-<img width="1920" height="1015" alt="tauri2" src="https://github.com/user-attachments/assets/bf776469-e6e3-4165-93da-27e614548b64" />
+<img width="1920" height="1080" alt="tauri2" src="https://github.com/BhilaniEdu/media/blob/main/tauri2.png" />
 
 **🙏 Mata Shabari 🙏**
