@@ -4,7 +4,7 @@
 
 *Get SDK Sample*
 
-	https://github.com/bhilanisdk
+	https://github.com/bhilaniedu/bhilanisdk
 
 *Run SDK Sample*
 
@@ -35,9 +35,9 @@
     }
 
 Screenshot (Page 1)
-<img width="1080" height="2340" alt="android1" src="https://github.com/bhilanisdk/media/blob/main/android1.jpg" />
+<img width="1080" height="2340" alt="android1" src="https://github.com/bhilaniedu/media/blob/main/android1.jpg" />
 
 Screenshot (Page 4)
-<img width="1080" height="2340" alt="android2" src="https://github.com/bhilanisdk/media/blob/main/android2.jpg" />
+<img width="1080" height="2340" alt="android2" src="https://github.com/bhilaniedu/media/blob/main/android2.jpg" />
 
 **🙏 Mata Shabari 🙏**
