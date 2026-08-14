@@ -4,7 +4,7 @@
 
 *Get SDK Sample*
 
-	https://github.com/bhilanisdk
+	https://github.com/bhilaniedu/bhilanisdk
 
 *Run SDK Sample*
 
@@ -223,10 +223,15 @@
     }
 
 First time
-<img width="885" height="444" alt="kotlin1" src="https://github.com/bhilanisdk/media/blob/main/kotlin1.png" />
+
+<img width="885" height="444" alt="kotlin1" src="https://github.com/bhilaniedu/media/blob/main/kotlin1.png" />
+
 Second time
-<img width="929" height="439" alt="kotlin2" src="https://github.com/bhilanisdk/media/blob/main/kotlin2.png" />
+
+<img width="929" height="439" alt="kotlin2" src="https://github.com/bhilaniedu/media/blob/main/kotlin2.png" />
+
 Third time
-<img width="923" height="441" alt="kotlin3" src="https://github.com/bhilanisdk/media/blob/main/kotlin3.png" />
+
+<img width="923" height="441" alt="kotlin3" src="https://github.com/bhilaniedu/media/blob/main/kotlin3.png" />
 
 **🙏 Mata Shabari 🙏**
