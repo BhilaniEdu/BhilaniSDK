@@ -4,7 +4,7 @@
 
 *Get SDK Sample*
 
-	https://github.com/bhilanisdk
+	https://github.com/bhilaniedu/bhilanisdk
 
 *Run SDK Sample*
 
@@ -35,10 +35,9 @@
     }
     
 Screenshot (Page 1)
-<img width="1080" height="600" alt="aaos1" src="https://github.com/bhilanisdk/media/blob/main/aaos1.png" />
+<img width="1080" height="600" alt="aaos1" src="https://github.com/bhilaniedu/media/blob/main/aaos1.png" />
 
 Screenshot (Page 4)
-<img width="1080" height="600" alt="aaos1" src="https://github.com/bhilanisdk/media/blob/main/aaos2.png" />
-<img width="1080" height="600" alt="aaos2" src="https://github.com/user-attachments/assets/edb50c96-0e0c-46ce-a609-d407f0c6c0be" />
+<img width="1080" height="600" alt="aaos1" src="https://github.com/bhilaniedu/media/blob/main/aaos2.png" />
 
 **🙏 Mata Shabari 🙏**
