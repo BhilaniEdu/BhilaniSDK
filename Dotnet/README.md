@@ -4,7 +4,7 @@
 
 *Get SDK Sample*
 
-	https://github.com/bhilanisdk
+	https://github.com/bhilaniedu/bhilanisdk
 
 *Run SDK Sample*
 
@@ -210,10 +210,15 @@
         }
 
 First time
-<img width="882" height="466" alt="dotnet1" src="https://github.com/bhilanisdk/media/blob/main/dotnet1.png" />
+
+<img width="882" height="466" alt="dotnet1" src="https://github.com/bhilaniedu/media/blob/main/dotnet1.png" />
+
 Second time
-<img width="868" height="462" alt="dotnet2" src="https://github.com/bhilanisdk/media/blob/main/dotnet2.png" />
+
+<img width="868" height="462" alt="dotnet2" src="https://github.com/bhilaniedu/media/blob/main/dotnet2.png" />
+
 Third time
-<img width="850" height="465" alt="dotnet3" src="https://github.com/bhilanisdk/media/blob/main/dotnet3.png" />
+
+<img width="850" height="465" alt="dotnet3" src="https://github.com/bhilaniedu/media/blob/main/dotnet3.png" />
 
 **🙏 Mata Shabari 🙏**
