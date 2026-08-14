@@ -4,7 +4,7 @@
 
 *Get SDK Sample*
 
-	https://github.com/bhilanisdk
+	https://github.com/bhilaniedu/bhilanisdk
 
 *Run SDK Sample*
 
@@ -184,10 +184,15 @@
     }
 
 First time
-<img width="850" height="442" alt="golang1" src="https://github.com/bhilanisdk/media/blob/main/golang1.png" />
+
+<img width="850" height="442" alt="golang1" src="https://github.com/bhilaniedu/media/blob/main/golang1.png" />
+
 Second time
-<img width="825" height="436" alt="golang2" src="https://github.com/bhilanisdk/media/blob/main/golang2.png" />
+
+<img width="825" height="436" alt="golang2" src="https://github.com/bhilaniedu/media/blob/main/golang2.png" />
+
 Third time
-<img width="929" height="443" alt="golang3" src="https://github.com/bhilanisdk/media/blob/main/golang3.png" />
+
+<img width="929" height="443" alt="golang3" src="https://github.com/bhilaniedu/media/blob/main/golang3.png" />
 
 **🙏 Mata Shabari 🙏**
