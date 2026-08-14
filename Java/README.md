@@ -4,7 +4,7 @@
 
 *Get SDK Sample*
 
-	https://github.com/bhilanisdk
+	https://github.com/bhilaniedu/bhilanisdk
 
 *Run SDK Sample*
 
@@ -187,12 +187,15 @@
     }
 
 Fist time
-<img width="967" height="447" alt="java1" src="https://github.com/bhilanisdk/media/blob/main/java1.png" />
+
+<img width="967" height="447" alt="java1" src="https://github.com/bhilaniedu/media/blob/main/java1.png" />
 
 Second time
-<img width="942" height="438" alt="java2" src="https://github.com/bhilanisdk/media/blob/main/java2.png" />
+
+<img width="942" height="438" alt="java2" src="https://github.com/bhilaniedu/media/blob/main/java2.png" />
 
 Third time
-<img width="868" height="440" alt="java3" src="https://github.com/bhilanisdk/media/blob/main/java3.png" />
+
+<img width="868" height="440" alt="java3" src="https://github.com/bhilaniedu/media/blob/main/java3.png" />
 
 **🙏 Mata Shabari 🙏**
