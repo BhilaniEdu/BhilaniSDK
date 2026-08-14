@@ -4,7 +4,7 @@
 
 *Get SDK Sample*
 
-	https://github.com/bhilanisdk
+	https://github.com/bhilaniedu/bhilanisdk
 
 *Run SDK Sample*
 
@@ -138,12 +138,15 @@
       }
 
 First time
-<img width="1053" height="434" alt="groovy1" src="https://github.com/bhilanisdk/media/blob/main/groovy1.png" />
+
+<img width="1053" height="434" alt="groovy1" src="https://github.com/bhilaniedu/media/blob/main/groovy1.png" />
 
 Second time
-<img width="1050" height="432" alt="groovy2" src="https://github.com/bhilanisdk/media/blob/main/groovy2.png" />
+
+<img width="1050" height="432" alt="groovy2" src="https://github.com/bhilaniedu/media/blob/main/groovy2.png" />
 
 Third time
-<img width="1046" height="445" alt="groovy3" src="https://github.com/bhilanisdk/media/blob/main/groovy3.png" />
+
+<img width="1046" height="445" alt="groovy3" src="https://github.com/bhilaniedu/media/blob/main/groovy3.png" />
 
 **🙏 Mata Shabari 🙏**
