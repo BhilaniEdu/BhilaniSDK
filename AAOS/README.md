@@ -1,4 +1,4 @@
-# Android AAOS
+# AAOS
 
 **BhilaniSDK | Interoperability** by **Kantini, Chanchali**
 
