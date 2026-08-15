@@ -4,7 +4,7 @@
 
 *Get SDK Sample*
 
-	https://github.com/bhilanisdk
+	https://github.com/bhilaniedu/bhilanisdk
 
 *Run SDK Sample*
 
@@ -184,10 +184,15 @@
     main();
 
 First time
-<img width="887" height="435" alt="node1" src="https://github.com/bhilanisdk/media/blob/main/node1.png" />
+
+<img width="887" height="435" alt="node1" src="https://github.com/bhilaniedu/media/blob/main/node1.png" />
+
 Second time
-<img width="802" height="438" alt="node2" src="https://github.com/bhilanisdk/media/blob/main/node2.png" />
+
+<img width="802" height="438" alt="node2" src="https://github.com/bhilaniedu/media/blob/main/node2.png" />
+
 Third time
-<img width="905" height="435" alt="node3" src="https://github.com/bhilanisdk/media/blob/main/node3.png" />
+
+<img width="905" height="435" alt="node3" src="https://github.com/bhilaniedu/media/blob/main/node3.png" />
 
 **🙏 Mata Shabari 🙏**
