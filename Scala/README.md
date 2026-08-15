@@ -4,7 +4,7 @@
 
 *Get SDK Sample*
 
-	https://github.com/bhilanisdk
+	https://github.com/bhilaniedu/bhilanisdk
 
 *Run SDK Sample*
 
@@ -167,10 +167,15 @@
       }
 
 First time
-<img width="934" height="436" alt="scala1" src="https://github.com/bhilanisdk/media/blob/main/scala1.png" />
+
+<img width="934" height="436" alt="scala1" src="https://github.com/bhilaniedu/media/blob/main/scala1.png" />
+
 Second time
-<img width="953" height="434" alt="scala2" src="https://github.com/bhilanisdk/media/blob/main/scala2.png" />
+
+<img width="953" height="434" alt="scala2" src="https://github.com/bhilaniedu/media/blob/main/scala2.png" />
+
 Third time
-<img width="922" height="440" alt="scala3" src="https://github.com/bhilanisdk/media/blob/main/scala3.png" />
+
+<img width="922" height="440" alt="scala3" src="https://github.com/bhilaniedu/media/blob/main/scala3.png" />
 
 **🙏 Mata Shabari 🙏**
