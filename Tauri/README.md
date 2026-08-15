@@ -4,7 +4,7 @@
 
 *Get SDK Sample*
 
-	https://github.com/bhilanisdk
+	https://github.com/bhilaniedu/bhilanisdk
 
 *Run SDK Sample*
     
@@ -62,9 +62,11 @@
     }
     
 Screenshot (Page 1)
+
 <img width="1920" height="1080" alt="tauri1" src="https://github.com/BhilaniEdu/media/blob/main/tauri1.png" />
 
 Screenshot (Page 4)
+
 <img width="1920" height="1080" alt="tauri2" src="https://github.com/BhilaniEdu/media/blob/main/tauri2.png" />
 
 **🙏 Mata Shabari 🙏**
