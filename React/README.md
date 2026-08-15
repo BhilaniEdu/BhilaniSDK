@@ -4,7 +4,7 @@
 
 *Get SDK Sample*
 
-	https://github.com/bhilanisdk
+	https://github.com/bhilaniedu/bhilanisdk
 
 *Run SDK Sample*
     
@@ -62,9 +62,11 @@
     }
     
 Screenshot (Page 1)
-<img width="1920" height="1080" alt="react1" src="https://github.com/bhilanisdk/media/blob/main/react1.png" />
+
+<img width="1920" height="1080" alt="react1" src="https://github.com/bhilaniedu/media/blob/main/react1.png" />
 
 Screenshot (Page 4)
-<img width="1920" height="1080" alt="react2" src="https://github.com/bhilanisdk/media/blob/main/react2.png" />
+
+<img width="1920" height="1080" alt="react2" src="https://github.com/bhilaniedu/media/blob/main/react2.png" />
 
 **🙏 Mata Shabari 🙏**
