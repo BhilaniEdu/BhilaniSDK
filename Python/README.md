@@ -4,7 +4,7 @@
 
 *Get SDK Sample*
 
-	https://github.com/bhilanisdk
+	https://github.com/bhilaniedu/bhilanisdk
 
 *Run SDK Sample*
 
@@ -172,10 +172,15 @@
         asyncio.run(main())
 
 First time
-<img width="877" height="440" alt="python1" src="https://github.com/bhilanisdk/media/blob/main/python1.png" />
+
+<img width="877" height="440" alt="python1" src="https://github.com/bhilaniedu/media/blob/main/python1.png" />
+
 Second time
-<img width="930" height="439" alt="python2" src="https://github.com/bhilanisdk/media/blob/main/python2.png" />
+
+<img width="930" height="439" alt="python2" src="https://github.com/bhilaniedu/media/blob/main/python2.png" />
+
 Third time
-<img width="842" height="439" alt="python3" src="https://github.com/bhilanisdk/media/blob/main/python3.png" />
+
+<img width="842" height="439" alt="python3" src="https://github.com/bhilaniedu/media/blob/main/python3.png" />
 
 **🙏 Mata Shabari 🙏**
